@@ -1,0 +1,35 @@
+[33mcommit a73ec80859670d6afdfdb81733ea0f9513c3a20d[m[33m ([m[1;36mHEAD -> [m[1;32mfirst_branch[m[33m, [m[1;31morigin/first_branch[m[33m)[m
+Author: maksyuta <s.maksyuta1@gmail.com>
+Date:   Thu May 23 19:37:20 2024 +0300
+
+    add bug report2
+
+[33mcommit 3b135bafcf8d1752078d98933a05a1ca67de0c9d[m
+Author: Sergey <98972166+maksyuta@users.noreply.github.com>
+Date:   Thu May 23 19:31:32 2024 +0300
+
+    Create bug-report.txt
+
+[33mcommit 0d8cdeda42e7e122082bfdb2d8d6faed036ba67f[m
+Author: maksyuta <s.maksyuta1@gmail.com>
+Date:   Thu May 23 19:30:32 2024 +0300
+
+    add new files
+
+[33mcommit 8b41a7a4f8a09b303f872f006dd2612098e0339d[m
+Author: maksyuta <s.maksyuta1@gmail.com>
+Date:   Thu May 23 19:23:06 2024 +0300
+
+    change file new.txt
+
+[33mcommit 7ff53acd63b2a4f95a94466981c951b8195196d6[m
+Author: maksyuta <s.maksyuta1@gmail.com>
+Date:   Thu May 23 19:20:36 2024 +0300
+
+    add new file
+
+[33mcommit 8c1a48a39a06bdd552c7e9ea517514d980806e49[m
+Author: Sergey <98972166+maksyuta@users.noreply.github.com>
+Date:   Thu May 23 18:58:19 2024 +0300
+
+    Initial commit
